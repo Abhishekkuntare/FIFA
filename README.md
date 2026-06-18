@@ -8,19 +8,25 @@ A cinematic AAA-quality FIFA World Cup 3D experience built using modern web tech
 
 ## SUUU Celebration
 
-![CR7 SUUU](C:\Users\HP\Downloads\3-d-world-cup-website\public)
+![CR7 SUUU](./public/cr7-1.png)
 
 ---
 
 ## Hero Pose
 
-![CR7 Hero](C:\Users\HP\Downloads\3-d-world-cup-website\public\cr7-2.png)
+![CR7 Hero](./public/cr7-2.png)
 
 ---
 
 ## Stadium Football Pose
 
-![CR7 Football](C:\Users\HP\Downloads\3-d-world-cup-website\public\cr7-3.png)
+![CR7 Football](./public/cr7-3.png)
+
+---
+
+## Cinematic Portugal Pose
+
+![CR7 Portugal](./public/cr7-4.png)
 
 ---
 
@@ -70,9 +76,15 @@ A cinematic AAA-quality FIFA World Cup 3D experience built using modern web tech
 src/
 ├── app/
 ├── components/
-├── shaders/
-├── assets/
-├── store/
+│   ├── three/
+│   ├── ui/
+│   └── effects/
+├── lib/
+├── public/
+│   ├── cr7-1.png
+│   ├── cr7-2.png
+│   ├── cr7-3.png
+│   └── cr7-4.png
 └── utils/
 ```
 
