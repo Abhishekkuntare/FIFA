@@ -18,13 +18,13 @@ A cinematic AAA-quality FIFA World Cup 3D experience built using modern web tech
 
 ---
 
-## Stadium Football Pose
+## Cinematic Portugal Pose
 
 ![CR7 Football](./public/cr7-3.png)
 
 ---
 
-## Cinematic Portugal Pose
+## Stadium Football Pose
 
 ![CR7 Portugal](./public/cr7-4.png)
 
@@ -90,7 +90,7 @@ src/
 
 ---
 
-# ⚡ Installation
+# ⚡ Installation 
 
 ```bash
 npm install
